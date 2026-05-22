@@ -1,0 +1,21 @@
+# Build
+bin/
+obj/
+*.user
+*.suo
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Secrets
+appsettings.Development.json
+secrets.json
+
+# OS
+.DS_Store
+Thumbs.db
